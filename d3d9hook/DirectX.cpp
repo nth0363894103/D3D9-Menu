@@ -1,3 +1,4 @@
+#fix getd3d9device
 #include "pch.h"
 int wH, wW;
 
