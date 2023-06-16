@@ -1,6 +1,6 @@
 // dllmain.cpp : Defines the entry point for the DLL application.
 #include "pch.h"
-
+//hello world
 PVOID d3d9Device[119];
 BYTE EndSceneBytes[7]{ 0 };
 typedef HRESULT(APIENTRY* tEndScene)(LPDIRECT3DDEVICE9 pDevice);
